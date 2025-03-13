@@ -9,3 +9,8 @@ Welcome to E-Learn, a modern e-learning platform built with React, Tailwind CSS,
 
 Join E-Learn today and start your learning journey! 🚀
 
+Front-End --- React 
+Style --- TailwindCss
+password visibel invisible ---lucide react
+routing -- react-router-dom 
+
